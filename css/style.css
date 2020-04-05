@@ -1,0 +1,14 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.song {
+	max-width: 150px;
+	margin: 0 12px;
+	color: yellow;
+}
+
+.song p {
+	display: block;
+	text-align: left;
+}
