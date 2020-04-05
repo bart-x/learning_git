@@ -1,2 +1,5 @@
-autoprefixer-cli
-html-validate
+autoprefixer-cli:
+autoprefixer-cli -o main.prefixed.css main.css
+
+html-validate:
+npm run build:docs
