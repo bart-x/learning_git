@@ -1,0 +1,9 @@
+{
+  "name": "id-generator-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@kodiuser1234/randomid-generator": "^1.0.0"
+  }
+}
